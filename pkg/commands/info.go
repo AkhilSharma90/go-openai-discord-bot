@@ -23,7 +23,7 @@ func infoHandler(ctx *bot.Context) {
 						&discord.Button{
 							Label: "Source code",
 							Style: discord.LinkButton,
-							URL:   "https://github.com/Raikerian/go-remai-bot-discord",
+							URL:   "https://github.com/akhilsharma90/go-openai-bot-discord",
 						},
 					},
 				},
